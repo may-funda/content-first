@@ -1,9 +1,9 @@
 .title  {
-   color: white;
+   color: black;
    margin-top: 40px;
    font-size: 4em;
    max-width: 100%;
-   text-shadow: 2px 4px 10px black;
+   text-shadow: 2px 4px 10px grey;
     }  
  
 .subtitle {
@@ -18,8 +18,9 @@ body {
    font-size: 1em;
    background-color: #cadcef;
    font-family: sans-serif;
+   font-style: normal
    margin: 0 auto;
-   max-width: 900px;
+    max-width: 900px;
    line-height: 1.4;
    padding-left: 10px;
    padding-right: 10px;
@@ -30,9 +31,10 @@ blockquote {
     font-size: 1.5em;
     padding-right: 10px;
     }
+    
 
 p {
-  font-style: oblique;  
+ 
     
   
 }
