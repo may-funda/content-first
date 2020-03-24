@@ -1,4 +1,4 @@
-.title  {
+.title1  {
    color: black;
    margin-top: 40px;
    font-size: 4em;
@@ -6,14 +6,49 @@
    text-shadow: 2px 4px 10px grey;
     }  
  
-.subtitle {
+
+.title2  {
+   color: black;
+   margin-top: 40px;
+   font-size: 4em;
+   max-width: 100%;
+   text-shadow: 2px 4px 10px grey;
+    }  
+
+
+.title3  {
+   color: black;
+   margin-top: 40px;
+   font-size: 4em;
+   max-width: 100%;
+   text-shadow: 2px 4px 10px grey;
+    }  
+
+
+.subtitle1 {
     font-variant: small-caps;
     margin-top: -45px;
     font-size: 1.4em;
     margin-bottom: 50px;
    }
 
-body {
+.subtitle2 {
+    font-variant: small-caps;
+    margin-top: -45px;
+    font-size: 1.4em;
+    margin-bottom: 50px;
+   }
+
+
+.subtitle3 {
+    font-variant: small-caps;
+    margin-top: -45px;
+    font-size: 1.4em;
+    margin-bottom: 50px;
+   }
+
+
+body1 {
    text-align: right; 
    font-size: 1em;
    background-color: #cadcef;
@@ -26,6 +61,7 @@ body {
    padding-right: 10px;
     
     }    
+
 
 blockquote1 {
     font-size: 1.5em;
