@@ -27,11 +27,22 @@ body {
     
     }    
 
-blockquote {
+blockquote1 {
     font-size: 1.5em;
     padding-right: 10px;
     }
+
     
+blockquote2 {
+    font-size: 1.5em;
+    padding-right: 10px;
+    }
+
+blockquote3 {
+    font-size: 1.5em;
+    padding-right: 10px;
+    }
+
 
 p {
  
