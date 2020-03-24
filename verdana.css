@@ -7,27 +7,12 @@
     }  
  
 
-.title2  {
-   color: black;
-   margin-top: 40px;
-   font-size: 4em;
-   max-width: 100%;
-   text-shadow: 2px 4px 10px grey;
-    }  
 
-
-.title3  {
-   color: black;
-   margin-top: 40px;
-   font-size: 4em;
-   max-width: 100%;
-   text-shadow: 2px 4px 10px grey;
-    }  
 
 
 .subtitle1 {
     font-variant: small-caps;
-    margin-top: -45px;
+    margin-top: 45px;
     font-size: 1.4em;
     margin-bottom: 50px;
    }
@@ -48,7 +33,7 @@
    }
 
 
-body1 {
+body {
    text-align: right; 
    font-size: 1em;
    background-color: #cadcef;
@@ -62,22 +47,8 @@ body1 {
     
     }    
 
-
-blockquote1 {
-    font-size: 1.5em;
-    padding-right: 0px;
-    }
-
     
-blockquote2 {
-    font-size: 0.5em;
-    padding-right: 10px;
-    }
 
-blockquote3 {
-    font-size: 0.5em;
-    padding-right: 10px;
-    }
 
 
 p {
