@@ -1,8 +1,9 @@
-.title1  {
+.title  {
    color: black;
    margin-top: 40px;
    font-size: 4em;
    max-width: 100%;
+   margin-left: 0px;
    text-shadow: 2px 4px 10px grey;
     }  
  
@@ -34,24 +35,51 @@
 
 
 body {
-   text-align: right; 
+   text-align: center; 
    font-size: 1em;
-   background-color: #cadcef;
    font-family: sans-serif;
    font-style: normal
    margin: 0 auto;
-    max-width: 900px;
+   max-width: 900px;
    line-height: 1.4;
    padding-left: 10px;
    padding-right: 10px;
-    
+   background-color: #40cbae; 
     }    
 
     
+        
+
+.blockquote {
+    font-size: 1.5em;
+    padding-right: 50px;
+    text-align: center;
+    margin-left: 200px;
+    line-height: 0.1;
+    padding-top: 100px;
+    }
+
+    
+.blockquote2 {
+    font-size: 1.5em;
+    padding-right: 100px;
+    text-align: center;
+    margin-left: 200px;
+    line-height: 0.1;
+    
+    }
+
+.blockquote3 {
+    font-size: 1.5em;
+    padding-right: 10px;
+    text-align: right;
+    margin-top: 10px;
+    line-height: 0.1;
+    
+    }
 
 
-
-p {
+.p {
  
     
   
