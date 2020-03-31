@@ -32,62 +32,62 @@ body {
     }    
 
 
-body2 {
-   text-align: center; 
-   font-size: 1.1em;
-   font-family: sans-serif;
-   font-style: normal
-   margin: 0 auto;
-   margin: 0 auto;
-   max-width: 900px;
-   line-height: 0.9;
-   padding-left: 10px;
-   padding-right: 10px;
-   background-color: #40cbae; 
-    }    
 
-
-body3 {
-   text-align: center; 
-   font-size: 1.2em;
-   font-family: sans-serif;
-   font-style: normal
-   margin: 0 auto;
-   margin: 0 auto;
-   max-width: 900px;
-   line-height: 0.8;
-   padding-left: 10px;
-   padding-right: 10px;
-   background-color: #40cbae; 
-    }    
-
-    
 blockquote {
     font-size: 1.5em;
     font-style: italic
     }
 
     
-blockquote2 {
-    font-size: 1.5em;
-    font-style: oblique
-    
-    }
-
-blockquote3 {
-    font-size: 1.75em;
-    font-style: normal
-    
-    }
 
 
 p {
   font-style: normal;
+  max-width: 50%;  
+  margin: 0 auto;
+}
+
+.bold {
+font-weight: bold;
+font-size: 3em;
+ line-height: 0.8em;   
+  margin-left: 40%;  
     
-  
 }
 
 
+.italic {
+font-style: italic;
+
+    
+    
+    
+}
 
 
+.margin40l {
+ margin-left: 40%;   
+    
+    
+}
+
+.margin80l {
+margin-left: 80px;   
+    
+    
+}
+
+.margin100l {
+ margin-left: : 100px;   
+    
+    
+}
+
+h2.subtitle2 {
+ display: inline-block;
+    margin: 20px;
+    
+    
+    
+}
 
