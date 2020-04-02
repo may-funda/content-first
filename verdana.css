@@ -13,6 +13,7 @@
     margin-top: -45px;
     font-size: 1.4em;
     margin-bottom: 50px;
+    text-decoration: none; 
    }
 
 
@@ -36,6 +37,7 @@ body {
     font-size: 1.5em;
     font-style: italic;
     min-height: 10em;
+    padding-top: 50px;
     }
 
     
@@ -50,8 +52,8 @@ p {
 .bold {
 font-weight: bold;
 font-size: 3em;
- line-height: 0.8em;   
-  margin-left: 40%;  
+line-height: 0.8em;   
+margin-left: 40%;  
     
 }
 
@@ -66,26 +68,29 @@ font-style: italic;
 
 
 .margin40l {
- margin-left: 40%;   
+ margin-left: -20%;   
+ font-size: 2em;
+ line-height: 0.2em;    
     
+}
+
+.margin60l {
+margin-left: -40px;   
+font-size: 6em;
+line-height: 0.4em;       
     
 }
 
 .margin80l {
-margin-left: 80px;   
-    
-    
-}
-
-.margin100l {
- margin-left: : 100px;   
-    
+ margin-left: : -50px;   
+ font-size: 5em;
+ line-height: 0.6em;      
     
 }
 
 h2.subtitle2 {
  display: inline-block;
-    margin: 20px;
+ margin: 20px;
     
     
     
@@ -99,3 +104,16 @@ textarea {
     
     
 }
+
+.aboutdesigner {
+ margin-bottom: 50%;   
+    
+}
+
+.aboutfont {
+margin-bottom: 50%;    
+padding-bottom: 10px;    
+padding-top: 50px;
+}
+
+
