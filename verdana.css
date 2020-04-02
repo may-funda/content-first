@@ -21,8 +21,7 @@ body {
    text-align: center; 
    font-size: 1em;
    font-family: sans-serif;
-   font-style: normal
-   margin: 0 auto;
+   font-style: normal;
    margin: 0 auto;
    max-width: 900px;
    line-height: 1;
@@ -33,9 +32,10 @@ body {
 
 
 
-blockquote {
+.blockquote {
     font-size: 1.5em;
-    font-style: italic
+    font-style: italic;
+    min-height: 10em;
     }
 
     
@@ -91,3 +91,11 @@ h2.subtitle2 {
     
 }
 
+textarea {
+ background-color: #40cbae;
+}
+
+.backtotop a {
+    
+    
+}
