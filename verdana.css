@@ -26,7 +26,7 @@ body { /* kfjdkfjgkdfjg */
     font-style: normal;
     margin: 0 auto;
     max-width: 900px;
-    line-height: 1;
+    line-height: 1em;
     padding-left: 10px;
     padding-right: 10px;
     background-color: #40cbae;
@@ -97,10 +97,10 @@ textarea {
  text-decoration: none;
  color: blueviolet;
  font-size: 1em;
- line-height: 1;
+ line-height: 1em;
  font-variant: small-caps;
-    margin-top: -45px;
-    padding: 15px;
+ margin-top: -45px;
+ padding: 15px;
     
     
 }
