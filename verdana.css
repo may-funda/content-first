@@ -16,10 +16,7 @@
     text-decoration: none;
     color: blueviolet;
     padding: 15px;
-
-
 }
-
 
 
 body { /* kfjdkfjgkdfjg */
@@ -36,7 +33,6 @@ body { /* kfjdkfjgkdfjg */
 }
 
 
-
 .blockquote {
     font-size: 1.5em;
     font-style: italic;
@@ -45,29 +41,23 @@ body { /* kfjdkfjgkdfjg */
 }
 
 
-
-
 p {
     font-style: normal;
     max-width: 50%;
     margin: 0 auto;
 }
 
+
 .bold {
     font-weight: bold;
     font-size: 3em;
     line-height: 0.8em;
     margin-left: 40%;
-
 }
 
 
 .italic {
     font-style: italic;
-
-
-
-
 }
 
 
@@ -75,45 +65,46 @@ p {
     margin-left: -20%;
     font-size: 2em;
     line-height: 0.2em;
-
 }
+
 
 .margin60l {
     margin-left: -40px;
     font-size: 6em;
     line-height: 0.4em;
-
 }
+
 
 .margin80l {
     margin-left: : -50px;
     font-size: 5em;
     line-height: 0.6em;
-
 }
+
 
 h2.subtitle2 {
     display: inline-block;
-
-
-
 }
+
 
 textarea {
     background-color: #40cbae;
 }
 
+
 .backtotop a {
  padding: 3em;
  text-decoration: none;
  color: blueviolet;
-    
+ font-size: 1em;
+ 
 }
+
 
 .aboutdesigner {
     margin-bottom: 50%;
-
 }
+
 
 .aboutfont {
     margin-bottom: 50%;
