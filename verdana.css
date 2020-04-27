@@ -23,7 +23,7 @@ body {
     /* kfjdkfjgkdfjg */
     text-align: center;
     font-size: 1em;
-    font-family: sans-serif;
+    font-family: verdana, sans-serif;
     font-style: normal;
     margin: 0 auto;
     max-width: 900px;
@@ -90,6 +90,11 @@ h2.subtitle2 {
 
 textarea {
     background-color: #40cbae;
+    margin: 50px 0;
+    font-family: verdana, sans-serif;
+    
+ 
+    
 }
 
 
