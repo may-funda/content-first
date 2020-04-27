@@ -27,7 +27,7 @@ body {
     font-style: normal;
     margin: 0 auto;
     max-width: 900px;
-    line-height: 1em;
+    line-height: 1;
     padding-left: 10px;
     padding-right: 10px;
     background-color: #40cbae;
@@ -53,7 +53,8 @@ p {
     font-weight: bold;
     font-size: 3em;
     line-height: 0.8em;
-    margin-left: 40%;
+    margin: 50px 0 50px 40%;
+    
 }
 
 
@@ -106,6 +107,7 @@ textarea {
     line-height: 1em;
     font-variant: small-caps;
     margin-top: 50px;
+    margin-bottom: 50px; 
    
 
 
